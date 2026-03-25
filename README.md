@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Arthur Gabriel de Oliveira Fonseca Santos
+- Matricula: 924860
+- Proposta de projeto escolhida: A ideia é refazer de maneira breve o firefox
+- Breve descrição sobre seu projeto: O projeto é uma cópia do firefox, sem a pesquisa, mas com suas funções de clicar em ícones e entrar em páginas como suas configurações.
 
 
 ## Print do(s) wireframe(s) criado
