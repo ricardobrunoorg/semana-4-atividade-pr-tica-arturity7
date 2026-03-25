@@ -28,3 +28,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+
+![firefox](https://github.com/user-attachments/assets/6cb3cdf3-c3f7-4652-b67c-eaaeeda56a0e)
