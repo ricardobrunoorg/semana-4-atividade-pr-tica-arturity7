@@ -20,6 +20,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 <<  COLOQUE A IMAGEM AQUI >>
 
+
+
 <img width="2000" height="1414" alt="Clima" src="https://github.com/user-attachments/assets/c0e7792a-5b6e-4267-8ada-9d5934605d44" />
 
 
